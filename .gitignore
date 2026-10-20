@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.next-static/
+out/
+*.tsbuildinfo
+.cdp-browser/
+work/
+.DS_Store
+__pycache__/
+scripts/ralph/logs/
+.env*
+!.env.example
+*.pem
+*.key
